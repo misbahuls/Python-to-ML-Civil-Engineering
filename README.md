@@ -168,6 +168,7 @@ Each completed project will include its problem statement, dataset, methodology,
 | Soil Classification | Geotechnical Engineering |
 | Concrete Crack Detection | Computer Vision | Planned |
 | Traffic Volume Prediction | Transportation Engineering |
+| Bridge Health Monitoring | Structural / Transportation Engineering |
 | Intelligent Traffic Management | AI / Transportation |
 
 
