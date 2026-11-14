@@ -1,0 +1,511 @@
+This 112-day roadmap is a foundation, not a promise that become an expert in AI within 112 days.
+Research-level ability requires further practice, deeper mathematics, substantial projects and real engineering datasets.
+
+immediate target is simple: finish Python fundamentals first. Don't rush into Machine Learning before you're comfortable with Python.
+
+# **Python → Machine Learning → AI for Civil Engineering**
+
+## **Complete Day-by-Day Journey Plan**
+
+
+
+Personal learning roadmap
+
+**Study structure:**
+
+- Daily lesson: 15 minutes.
+- Coding practice: 15–30 minutes when possible.
+- Project/revision days: spend extra time when available.
+- Language: English lessons, with C-to-Python comparisons.
+- IDE: Google Colab initially, then VS Code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# **Phase 1 — Python Fundamentals**
+
+14 days
+
+**Goal:** Become comfortable writing basic Python programs independently.
+
+| Day | Topics                                                | Practical task                        |
+| --- | ----------------------------------------------------- | ------------------------------------- |
+| 01  | Algorithms, variables, data types                     | Calculate average concrete strength   |
+| 02  | Operators, input/output, type conversion              | Calculate slab area                   |
+| 03  | Comparison operators, logical operators, if/elif/else | Concrete strength classification      |
+| 04  | `for` and `while` loops                               | Print numbers and calculate sums      |
+| 05  | Nested loops, `range()`                               | Generate simple patterns              |
+| 06  | Lists and list indexing                               | Store concrete test results           |
+| 07  | Tuples and sets                                       | Store and organize test data          |
+| 08  | Dictionaries and key-value pairs                      | Store student and engineering data    |
+| 09  | Strings and string methods                            | Process engineering labels            |
+| 10  | Functions and parameters                              | Create an area calculator             |
+| 11  | Return values and multiple arguments                  | Create reusable engineering functions |
+| 12  | Scope, lambda functions                               | Small calculation exercises           |
+| 13  | Modules, imports and built-in functions               | Use `math` and `random`               |
+| 14  | Complete revision and mini-project                    | Concrete strength calculator          |
+
+**Phase 1 project:** Build a small Concrete Strength Calculator using Python.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# **Phase 2 — Intermediate Python**
+
+Days 15–28
+
+**Goal:** Learn to write more organized programs and handle real datasets.
+
+| Day | Topics                                           | Practical task                       |
+| --- | ------------------------------------------------ | ------------------------------------ |
+| 15  | List methods and list operations                 | Organize test results                |
+| 16  | List comprehensions                              | Filter concrete strengths            |
+| 17  | Dictionary methods and nested dictionaries       | Store structural element information |
+| 18  | Sets and advanced tuple operations               | Remove duplicate data                |
+| 19  | File handling: read and write                    | Save engineering data                |
+| 20  | CSV file handling                                | Read concrete test records           |
+| 21  | Exception handling: `try`, `except`              | Handle invalid inputs                |
+| 22  | Debugging and common Python errors               | Fix broken programs                  |
+| 23  | Functions with lists and dictionaries            | Build a data processing function     |
+| 24  | Object-oriented programming: classes and objects | Create a `Beam` class                |
+| 25  | Constructors and object attributes               | Store beam dimensions                |
+| 26  | Methods and inheritance                          | Create structural element classes    |
+| 27  | Python libraries and package installation        | Work with external libraries         |
+| 28  | Revision and mini-project                        | Engineering Data Management System   |
+
+**Phase 2 project:** Create a Python program that stores and processes basic structural engineering information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# **Phase 3 — Mathematics and Data Analysis**
+
+Days 29–49
+
+**Goal:** Prepare for Machine Learning by learning how to work with numerical data.
+
+### **Week 5 — NumPy**
+
+| Day | Topics                                  |
+| --- | --------------------------------------- |
+| 29  | Introduction to NumPy and arrays        |
+| 30  | Array indexing and slicing              |
+| 31  | Array operations and broadcasting       |
+| 32  | Mathematical and statistical operations |
+| 33  | Matrix operations and linear algebra    |
+| 34  | Reshaping, filtering and sorting arrays |
+| 35  | NumPy revision and mini-project         |
+
+### **Week 6 — Pandas**
+
+| Day | Topics                                          |
+| --- | ----------------------------------------------- |
+| 36  | Introduction to Pandas, Series and DataFrames   |
+| 37  | Reading CSV and Excel files                     |
+| 38  | Selecting rows and columns                      |
+| 39  | Filtering and sorting datasets                  |
+| 40  | Handling missing values                         |
+| 41  | Grouping, aggregation and statistical summaries |
+| 42  | Pandas revision and engineering dataset project |
+
+### **Week 7 — Visualization and Statistics**
+
+| Day | Topics                                              |
+| --- | --------------------------------------------------- |
+| 43  | Introduction to Matplotlib                          |
+| 44  | Line plots and scatter plots                        |
+| 45  | Bar charts and histograms                           |
+| 46  | Seaborn and statistical visualization               |
+| 47  | Mean, median, mode, variance and standard deviation |
+| 48  | Correlation and probability basics                  |
+| 49  | Complete data analysis project                      |
+
+**Phase 3 projects:**
+
+- Concrete compressive strength data analysis.
+- Traffic volume data visualization.
+- Correlation analysis between concrete ingredients and strength.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# **Phase 4 — Machine Learning Fundamentals**
+
+Days 50–70
+
+**Goal:** Understand how machines learn from data and build your first ML models.
+
+### **Week 8 — ML Foundations**
+
+| Day | Topics                              |
+| --- | ----------------------------------- |
+| 50  | What is Machine Learning?           |
+| 51  | Supervised vs unsupervised learning |
+| 52  | Regression vs classification        |
+| 53  | Features, labels and datasets       |
+| 54  | Training and testing datasets       |
+| 55  | Introduction to Scikit-Learn        |
+| 56  | First ML model                      |
+
+### **Week 9 — Regression**
+
+| Day | Topics                                   |
+| --- | ---------------------------------------- |
+| 57  | Linear regression                        |
+| 58  | Multiple linear regression               |
+| 59  | Polynomial regression                    |
+| 60  | Prediction and residual analysis         |
+| 61  | MAE, MSE and RMSE                        |
+| 62  | R² score and model evaluation            |
+| 63  | Concrete compressive strength prediction |
+
+### **Week 10 — Classification and Other Models**
+
+| Day | Topics                               |
+| --- | ------------------------------------ |
+| 64  | Logistic regression                  |
+| 65  | Decision trees                       |
+| 66  | Random forests                       |
+| 67  | K-nearest neighbors                  |
+| 68  | Support Vector Machines              |
+| 69  | Clustering with K-means              |
+| 70  | Model comparison and ML mini-project |
+
+**Phase 4 projects:**
+
+1. Concrete strength prediction.
+2. Soil classification.
+3. Traffic congestion classification.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# **Phase 5 — Deep Learning and AI**
+
+Days 71–84
+
+**Goal:** Understand neural networks, deep learning and computer vision.
+
+| Day | Topics                                            |
+| --- | ------------------------------------------------- |
+| 71  | Introduction to Artificial Intelligence           |
+| 72  | Introduction to Neural Networks                   |
+| 73  | Neurons, weights, biases and activation functions |
+| 74  | Forward propagation                               |
+| 75  | Backpropagation and gradient descent              |
+| 76  | TensorFlow or PyTorch introduction                |
+| 77  | Build a simple neural network                     |
+| 78  | Deep Learning model training                      |
+| 79  | Introduction to Computer Vision                   |
+| 80  | Image processing with OpenCV                      |
+| 81  | Image classification                              |
+| 82  | Convolutional Neural Networks (CNN)               |
+| 83  | Object detection and YOLO                         |
+| 84  | Deep Learning mini-project                        |
+
+**Phase 5 project:** Build an image classification model using a suitable dataset.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# **Phase 6 — AI Applications in Civil Engineering**
+
+Days 85–98
+
+This is where your Civil Engineering background becomes especially important.
+
+We'll explore both Structural and Transportation Engineering.
+
+
+
+
+
+## **Structural Engineering**
+
+[Resensys at 2024 IBTTA Maintenance, Engineering & Roadway Operations Workshop , Fort Myers, Florida, USA - Resensys blog](https://images.openai.com/static-rsc-4/2PS7yuyKgYVWKLFXuIo1A_GiCT9Bh0lEeLVz00mUHh1kulQ9HOKigpA6T_D_pe9HIa9R5fTmHKoeH6ZJ7a2TxtiHDhHO0lApAUwiF2z7cEw8qJurhItjQ1wjJnIBFgvcCEvAF0pcOlsEfAUaZ1IwtHB8Hh9wHN43_A7UFgVF4nU?purpose=inline)
+
+[Crack Detection of Bridge Concrete Components Based on Large-Scene Images Using an Unmanned Aerial Vehicle](https://images.openai.com/static-rsc-4/NDQ7W-GMZtMtXSJXr23ymj2HRSgCVhSYKPJgzZb8U_97qBLnw8wgD4_2atVEAGkomDueRhbWwoKhpyE8uTJsEofaL0PMQJrjwB-B7R3eu4ntGB4Tk1h5erOUv3r3Km5T36fOko3JXIMrVmacKq1Dr-i6kxiT8LPitb6bmsVbGTs?purpose=inline)
+
+[Highway Bridge Digital Twin - WeStatiX](https://images.openai.com/static-rsc-4/wOPER1AyeZWwgofMIwB_W_Fqr-cUkVx5jrp1GLins48LZees3DstsSq-CGCys8QPHoJkVRB04PPJbfuzuQKhy_5tFhIY1itHWLteqQY4s6wXQpvcc2kkClhaZoviaS7ZxRUobmvuNhFK_iRzpfa5SSPaNWX2py0hCuK7o_VkGzs?purpose=inline)
+
+[The Concept of Creating Digital Twins of Bridges Using Load Tests](https://images.openai.com/static-rsc-4/nLv4_gGK7A23BJcoteHbwxQPry0Dleh-NftXnvJw2EPJ7aNdH-wtd0492xrh3QhA9-WlMPNqqVCe36hqidN4TYEcqgx8k_27vE_D55PFdmZnr-ZWzEuXYfkWOV3HZpOXkRywIbUTJu4aNN6mkJBEwOxz5LS0GtisU-S0gy8np4k?purpose=inline)
+
+[Cotech - Engenharia e Tecnologia | Topografia e Inspeção Estrutural](https://images.openai.com/static-rsc-4/T2wv3Lm2YCGycTAwBdUoGR_PkRmA8k05bWxSMip_Kc5CDv1cEbQVh811yULjLC6wJz6qNyn3f88p3OTWgoNTA-kDIctiNeJEQBD7kutk-7mjmTuhlnVcWkw9mONxZJhH2XkCzqQ5aqRshPh4yWLiKgk3kjuSacuopIIBXajPVaU?purpose=inline)
+
+[Automatic Crack Segmentation for UAV-Assisted Bridge Inspection | MDPI](https://images.openai.com/static-rsc-4/mnaRWOyCauiu5EZaoOfJDOLpWdotuQm3nQ494vgsxA7jiMfkpfnlRF8fXoBVqa_yBr2WC-QzslAr8TehGP8CM0OLB2EKG0rimr_hp342wOLgJ26NJHJywd3NCR9OdchTlLQ8nOuSVIh-0UG0289c_ize5Ne2WLAPzl2JCUByafo?purpose=inline)
+
+[GNSS Monitoring on the World's Highest Bridge | CHCNAV](https://images.openai.com/static-rsc-4/HG7Hno3Q0YF-VNQT7L73j7l1bD17iPUlcHZWq4HV3mqIHRgOESLPX6Rb06IoKPkYRrjfQTgvgOyKWLUFjSFisd1JRRsaGBRsx8bTm7VoprxiPGnE19FKnT_EUB6xwsi4KTXyjquyVW4XQAHmNMOq3LvdQJO2oTxSHnb42MYxBNI?purpose=inline)
+
+[Enabling Real-Time Mechanical Analysis in Digital Twin Systems: A Study on Multi-Source Heterogeneous Data Fusion via Midas Civil Integration](https://images.openai.com/static-rsc-4/CMSFjy5VJTIC_r3K8fzQc5S2RJoPiQnsZKMSk87wgCEJZU846TglfKsYGKKDvSmcWIBy18W7co4pUyUnHT6bswl9Z6ipu4dtjhVKA_f1D4udLXJkILeb7J3K91_LchRQuLbZLzjWL5UOJZYHbaJUVdnPznbnRng4p9rks6AUl0c?purpose=inline)
+
+[AIRO Lab](https://images.openai.com/static-rsc-4/bBVdLnR4OBta8s6YyQNvu6eFQOkHaLmyQDuXZC22Oj3U8aVPdIiox-r1FhOugnWLy7ZkEjihCnIKR3E8ERdyM6wUFv5PMipcJxBapNN1XtFSkZE4DAsQ7VAWriyBaRk5aRDNvqziZWgnaDT6j7KT9Y8gWg7ww1agpYJIRbgJmNA?purpose=inline)
+
+[Embaba Bridge | MAS Automation](https://images.openai.com/static-rsc-4/1AA7GfNWf184jcZX8c6CVj7_TObg6qi4D7Vzt9oHBfI6E41jaRCswbfB0PSTtQxEg7BZDorPPoYtIHZPLE91AuSTCE7XFO562EKNrgiwQCBcbQpFhJes2wd_oAYHVwHTifuq_3c_AGkAZtgyD6K4WNheOCOD2m7pL9n7Drle1Oo?purpose=inline)
+
+[Comprehensive Guide to Civil Engineering Risk Assessment 2026 - Method Statement Central](https://images.openai.com/static-rsc-4/dTpU-iG5lneZ5COZpuozV4o-RJvz-s8EJVZ9YEZNW0JUdKKObsGApjPbquf_lp_5OZnTtbEvaCqB_z_uBbdutX8M4vwOPCfhdMCeiLWxpqxLjq0zXMGxq1VNu3au2uW3FMxF1dCXhEWeTaI3bP6soLmxa2MP94uHPYWs9Ai7cac?purpose=inline)
+
+
+
+
+
+| Day | Topics                                       |
+| --- | -------------------------------------------- |
+| 85  | Introduction to AI in Structural Engineering |
+| 86  | Structural Health Monitoring (SHM)           |
+| 87  | Sensor data and structural response          |
+| 88  | ML for damage detection                      |
+| 89  | Computer vision for crack detection          |
+| 90  | CNN and YOLO for infrastructure inspection   |
+| 91  | Bridge condition monitoring mini-project     |
+
+
+
+
+
+## **Transportation Engineering**
+
+[AI to identify dangerous drivers before accidents occur - el.kz](https://images.openai.com/static-rsc-4/rasAjIs_MKIs1sptoQi6cFdlfG7Za5h5YaDQgIzONaOT9-pQ7TXnDj9NLG3AQGG0_bAAqxS-KW1h2pgRERyJuBCwMP5JMMpwlcv6ndnwAuJ9qUPI_8CjcemgvMBcoNzc2VVr_7aDFS-Qa4ohqeY3Dl-BxjHSKN9NRk6uXOEOpw0?purpose=inline)
+
+[Short-Term Traffic Flow Prediction Considering Weather Factors Based on Optimized Deep Learning Neural Networks: Bo-GRA-CNN-BiLSTM](https://images.openai.com/static-rsc-4/fCNUAQoUU8AK4EmolWiPxe3yCwD4dmXKjD_2yGage_KFIcflbQVbhaKc0wO_wbGLUWSPS0avx06lY2wkffPCOvXf7BpVq_nEaZcrTIg2z_O8hgNbjuzhKgjRooAlT3kdvkLKkE6qtRWxkhP_EZrot-eg-H_pZyxbV7QAxh6oZ1o?purpose=inline)
+
+[광주교통정보센터](https://images.openai.com/static-rsc-4/bejbwaJiIpMLLYteR0TAi4C0m2JPZFSzAHkKEEZwv1m0ctZmqmd5ZYqpa4QtLhfFWxT7mT5Jb8YbCQtIrf08VenP6aBFoxL5m4-SdY7kd60TsVP06DKkQorJ58YKxTLCdNT-_tetHiMEHRbjNH_E0nau9q1aNCi4EbAiYn2-q-Q?purpose=inline)
+
+[RACLAB — Robotics, Automation & Control Laboratory | Konya Technical University](https://images.openai.com/static-rsc-4/Cg1eCnxmhho9w2p638-FYajRQqAVumAcqgBSlw9HP0ypihHaQH9nJX_d5fa_vN6OG2GjC7O21ah2UuBoPWGGNABxzAcw_7bEAOoac7Gch3eoQrxwTHvr30pyXeotytThhIV0Q9rSlFs45_xMQId0axgO8IqPyoCIpd1OEQjjExc?purpose=inline)
+
+[Smart Traffic คืออะไร? นวัตกรรม AI ยกระดับการจราจรไทยปี 2026](https://images.openai.com/static-rsc-4/0RCsEKjQEZIg1oYGNzgB43tn3lklMz4wbwJw4XzytUfrd0rMyQETWkqR8RhXAkFiUA9YGhfWYVAuHCu39vVZY3kzzgVapcNaNb0vUt3LJkSSXUErsdnRDQ2pyxCBE3072nfbmQpE1Svd3BuA_jxVOWbMsUokOUk9p0UHK7STjgw?purpose=inline)
+
+[xLSTM-Based Urban Traffic Flow Prediction for Intelligent Transportation Governance](https://images.openai.com/static-rsc-4/0iQplesG99nW5-ioHsHWElDnTfPm2c5qT01pUaahG2bG61cAoJ1X9B_zfGF5pZfF5oBEg6DHZqMLeAlV6Mc-BtW-gbN0_9B4XSJavfCHlJGepmODXToM7G8e_XyhjO3zVX_09jlmfKxoYZU-C3DYipSoKP0vPmseJ45eSTBTsB0?purpose=inline)
+
+[교차로여도 교통량 많은 방향은 신호대기 짧게···서울시, ‘화랑로 일대’ 시범지구로 - 경향신문](https://images.openai.com/static-rsc-4/H2MMwKue5XEfAyu739IoVBg6JtyKLsDKodYTv2d9eAJ3u8eV6U9NQaijV9jkPhKqQIC7INtt-eLOy7skDvkKDksa5Op_AKcjEz2Jc8hfS-daKCVwg2Jq2RSSRWMqrey1xHCMZRBOl0ed8Ev4ct8vda4jYhM1TQYBIk5G3dlB-_U?purpose=inline)
+
+[Pri-DDQN: learning adaptive traffic signal control strategy through a hybrid agent | Complex & Intelligent Systems | Springer Nature Link](https://images.openai.com/static-rsc-4/EIlGHsOH12GKjPqM1XtWjsogVMQOIsB3cWThlrfatLTSqbKejEUvuqRDEuRglrebQv8U9Dalu89zjLsVSxT0-iAsnI7KlArkHojUcoxkHCY2REljy5WNf5SWdGfHzi3-B-yRbDIJqziVAVZcvrYLhfYKbI0ky0J0DdUU6xoFbyg?purpose=inline)
+
+[贵阳AI信控-百度智能云](https://images.openai.com/static-rsc-4/AhBx29_pvzU-K0q2kxb6ZfpEU8rqa-6Lk9w9a4JXTtagNhrm7PT-Une-sHoL8KN1BgwUO0M8u1DH-cOeCQKDA3X467Kjw8ZKIfX5mqearpQagMjLdo9S8riq7EOBmk16j24y-gbq2SvFtIc4yVaFj9tHBxdM0Isum4Ia9Fp6Ueg?purpose=inline)
+
+[Traffic surveillance cameras monitoring urban road with heavy traffic](https://images.openai.com/static-rsc-4/eAf3_JODDZBjqdmW6WWmwD4wwms9xI0bLHebI7i60fkQEI7M-kjb86OvnFDtg44CTXHD1bXWrd7VaYuAU7RBALnXXuSN0lQvkm4_CvUa1GVeP6TXFaV8CA3Nqf6YHJf2atol-99-a663-XDN3gY5T3IRZBPJMH70YKjzLYRbb8YLpggzWs7Tj5eXyTbh1hF9?purpose=inline)
+
+
+
+
+
+| Day | Topics                                    |
+| --- | ----------------------------------------- |
+| 92  | Introduction to AI in Transportation      |
+| 93  | Traffic data collection and preprocessing |
+| 94  | Traffic volume prediction                 |
+| 95  | Traffic congestion prediction             |
+| 96  | Accident and road safety analysis         |
+| 97  | Intelligent traffic signal control        |
+| 98  | Transportation ML mini-project            |
+
+
+
+
+
+
+**Combined Civil Engineering applications:**
+
+- Bridge damage detection.
+- Pavement distress detection.
+- Infrastructure monitoring.
+- Traffic prediction.
+- Smart transportation systems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# **Phase 7 — Research, Projects and Career Preparation**
+
+Days 99–112
+
+**Goal:** Start thinking like an AI-focused Civil Engineering researcher.
+
+| Day | Topics                                          |
+| --- | ----------------------------------------------- |
+| 99  | Introduction to research methodology            |
+| 100 | Finding research papers using Google Scholar    |
+| 101 | Understanding research papers                   |
+| 102 | Identifying research gaps                       |
+| 103 | Selecting a Civil Engineering ML research topic |
+| 104 | Dataset collection and preparation              |
+| 105 | Designing an ML experiment                      |
+| 106 | Model evaluation and comparison                 |
+| 107 | Results visualization                           |
+| 108 | Writing a technical project report              |
+| 109 | Git and GitHub fundamentals                     |
+| 110 | Organizing a professional ML portfolio          |
+| 111 | Research proposal and thesis planning           |
+| 112 | Final roadmap review and next specialization    |
+
+**Final portfolio target:**
+
+1. Concrete Strength Prediction.
+2. Traffic Volume Prediction.
+3. Concrete Crack Detection.
+4. Bridge Structural Health Monitoring.
+5. Intelligent Traffic Management.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# **Your specialization after Day 112**
+
+You have two major directions, and you can explore both before choosing a research specialization.
+
+[Cotech - Engenharia e Tecnologia | Topografia e Inspeção Estrutural](https://images.openai.com/static-rsc-4/T2wv3Lm2YCGycTAwBdUoGR_PkRmA8k05bWxSMip_Kc5CDv1cEbQVh811yULjLC6wJz6qNyn3f88p3OTWgoNTA-kDIctiNeJEQBD7kutk-7mjmTuhlnVcWkw9mONxZJhH2XkCzqQ5aqRshPh4yWLiKgk3kjuSacuopIIBXajPVaU?purpose=inline)
+
+
+
+
+
+**Path A — AI + Structural Engineering**
+
+- Structural Health Monitoring
+- Computer Vision
+- CNN and YOLO
+- Physics-Informed Neural Networks (PINNs)
+- Digital Twins
+
+[Autonome robotische Systeme bekommen eigene Messe](https://images.openai.com/static-rsc-4/lMAzcByqOF1GuGG2OaYmHjNFhGRakmOpDKs-JJIlMv8CaN4KpjUvx6uPibpHnkSKgDyxmR7qVBYl5WXrPzU5J6M2_ALTGQWhonrf8h3Q9CnwlX7xJmfcZRbQXPDZkaWu_TVe8XEQem24vzpE4YnzTygJP8_6FlZ8SkVZe-IudDg?purpose=inline)
+
+
+
+
+
+
+
+**Path B — AI + Transportation Engineering**
+
+- Traffic prediction
+- Intelligent Transportation Systems
+- Reinforcement Learning
+- Connected and Autonomous Vehicles
+- SUMO traffic simulation
+
+
+
+
+
+# **Software and tools roadmap**
+
+| Learning stage              | Tools                                |
+| --------------------------- | ------------------------------------ |
+| Python fundamentals         | Google Colab, VS Code                |
+| Data analysis               | NumPy, Pandas, Matplotlib, Seaborn   |
+| Machine Learning            | Scikit-Learn                         |
+| Deep Learning               | PyTorch or TensorFlow                |
+| Computer Vision             | OpenCV, YOLO                         |
+| Structural applications     | MATLAB, OpenSees, relevant FEM tools |
+| Transportation applications | SUMO, GIS                            |
+| Portfolio                   | Git, GitHub                          |
