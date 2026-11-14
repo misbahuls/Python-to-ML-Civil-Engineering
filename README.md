@@ -176,9 +176,7 @@ Each completed project will include its problem statement, dataset, methodology,
 
 **Currently Learning**
 - Python
-- Google Colab
-- Visual Studio Code
-- Git and GitHub
+
 
 **Planned Tools & Libraries**
 - NumPy
@@ -200,10 +198,7 @@ Each completed project will include its problem statement, dataset, methodology,
 
 I am following a structured 112-day learning roadmap and updating this section as I complete each stage.
 
-- [x] Day 01 — Python Fundamentals
-- [x] Day 02 — Operators, Input & Output
-- [ ] Day 03 — Conditional Statements
-- [ ] Complete Phase 01
+- [x] Complete Phase 01
 - [ ] Complete Phase 02
 - [ ] Complete Phase 03
 - [ ] Complete Phase 04
