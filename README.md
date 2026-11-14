@@ -120,7 +120,7 @@ The roadmap is organized into seven phases over 112 study days.
 - Structural Health Monitoring (SHM)
 - Structural response and sensor data analysis
 - ML-based damage detection
-- Crack detection using Computer Vision
+Concrete-Strength-Calculator- Crack detection using Computer Vision
 - Bridge monitoring applications
 
 **Transportation Engineering**
@@ -158,20 +158,19 @@ This section will showcase practical projects developed throughout the learning 
 
 Each completed project will include its problem statement, dataset, methodology, implementation, results, and limitations.
 
-| Project | Application | Status |
-|---|---|---|
-| Concrete Strength Calculator | Python / Structural Engineering | Planned |
-| Engineering Data Management System | Python | Planned |
-| Concrete Strength Data Analysis | Data Science | Planned |
-| Traffic Volume Visualization | Transportation Engineering | Planned |
-| Concrete Strength Prediction | Machine Learning | Planned |
-| Soil Classification | Geotechnical Engineering | Planned |
+| Project | Application |
+|---|---|
+| Concrete Strength Calculator | Python / Structural Engineering |
+| Engineering Data Management System | Python |
+| Concrete Strength Data Analysis | Data Science |
+| Traffic Volume Visualization | Transportation Engineering |
+| Concrete Strength Prediction | Machine Learning |
+| Soil Classification | Geotechnical Engineering |
 | Concrete Crack Detection | Computer Vision | Planned |
-| Bridge Health Monitoring | Structural Engineering | Planned |
-| Traffic Volume Prediction | Transportation Engineering | Planned |
-| Intelligent Traffic Management | AI / Transportation | Planned |
+| Traffic Volume Prediction | Transportation Engineering |
+| Intelligent Traffic Management | AI / Transportation |
 
-*Project status will be updated as work progresses.*
+
 
 ## Technology Stack
 
